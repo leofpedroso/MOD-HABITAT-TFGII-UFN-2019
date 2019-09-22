@@ -1,4 +1,4 @@
-![Alt text](relative/path/to/LOGO.png?raw=true "Title")
+![LOGO](https://github.com/leofpedroso/MOD-HABITAT-TFGII-UFN-2019/blob/master/LOGO.png)
 
 
 # MODHABITAT (TFGII - UFN 2019)
