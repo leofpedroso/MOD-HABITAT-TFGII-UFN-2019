@@ -5,5 +5,6 @@ O algoritmo ainda se encontra em fase inicial de desenvolvimento.
 No momento ele é capaz de gerar a curva base conforme as limitações estrturais impostas pelo trabalho de acordo com os pontos que 
 o usuário deseja.
 Além disso, consegue, a partir da curva base, gerar os perfis da WikiHouse de maneira simplificada, apenas para visualização. 
-Contempla também a repetição dos módulos (2 perfis) de forma a compor uma distribuição linear, por hora.
+Contempla também diversos modos de composição volumétrica, além de informações acerca da área interna de planta, dimensões
+e precificação estimada.
 
